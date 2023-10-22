@@ -1,3 +1,8 @@
+<!--
+    SPDX-FileCopyrightText: Copyright (C) swift Project Community / Contributors
+    SPDX-License-Identifier: GFDL-1.3-only
+-->
+
 # Documentation for swift pilot client
 
 This repository contains documentation for the [swift pilot client](https://github.com/swift-project/pilotclient).
