@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: swift pilot client Documentation
+Upstream-Contact:  <>
+Source: https://github.com/swift-project/docs
+
+Files: docs/img/*.jpg
+Copyright: Copyright (C) swift Project Community / Contributors
+License: GFDL-1.3-only

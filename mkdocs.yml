@@ -1,0 +1,277 @@
+# SPDX-FileCopyrightText: Copyright (C) swift Project Community / Contributors
+# SPDX-License-Identifier: GFDL-1.3-only
+
+site_name: swift Documentation
+
+# repo_url: https://github.com/swift-project/pilotclient
+
+nav:
+  - Home:
+    - index.md
+    - System Requirements: home/system_requirements.md
+    - Features: home/features.md
+    - Download & Install:
+      - home/install/index.md
+      - Download: home/install/download.md
+      - Installation:
+        - Windows: home/install/install_windows.md
+        - MacOS: home/install/install_mac.md
+        - Linux: home/install/install_linux.md
+      - Configuration:
+        - X-Plane 11: home/install/configure_xp.md
+        - MSFS - FS2020: home/install/configure_msfs.md
+        - FSX & P3D v1-v3:
+          - home/install/fsx_p3d/index.md
+          - Terrain Probe: home/install/fsx_p3d/install_terrain_probe.md
+        - P3D v4 and newer:
+          - home/install/p3d/index.md
+          - swift installation in parallel with P3D v4 and P3D v5: home/install/p3d/install_p3d_parallel.md
+        - Flightgear: home/install/configure_fg.md
+        - FS2004 - FS9:
+          - home/install/fs9/index.md
+          - FS9 elevation (FS9 aircraft too high/low): home/install/fs9/fs9_ground_elevation.md
+    - CSL models & AI aircraft:
+      - X-Plane 11:
+        - home/models/xplane/index.md
+        - Bluebell: home/models/xplane/bluebell.md
+        - X-CSL: home/models/xplane/xcsl.md
+        - CSL2XSB Model Converter: home/models/xplane/csl2xsb_converter.md
+      - MSFS 2020: home/models/msfs.md
+      - FSX & P3D: home/models/fsx_p3d.md
+      - Flightgear: home/models/flightgear.md
+      - FS9: home/models/fs9.md
+
+    - Updating:
+      - home/updating/index.md
+      - Update for SAME version: home/updating/update_current_version.md
+      - Upgrade to NEW version: home/updating/upgrade_new_version.md
+    - Video Tutorials: home/video_tutorials.md
+    - Uninstalling swift: home/uninstall.md
+    - Themes for swiftGUI: home/themes.md
+    - Checklist Before 1st flight: home/checklist_first_flight.md
+    - Contact: home/contact.md
+    - Getting involved:
+      - home/getting_involved/index.md
+      - Submit Airline Logo Icons: home/getting_involved/airline_logos.md
+      - Report bugs: home/getting_involved/bug_reporting.md
+      - Getting started as developer: home/getting_involved/developer.md
+      - Improve help and tutorials: home/getting_involved/documentation.md
+      - Open tasks: home/getting_involved/open_tasks.md
+  - Documentation:
+    - documentation/index.md
+    - swift launcher: documentation/swift_launcher.md
+    - swiftGUI:
+      - documentation/swift_gui/index.md
+      - Status Bar: documentation/swift_gui/status_bar.md
+      - Connect Page:
+        - documentation/swift_gui/connect/index.md
+        - Advanced Login Popup: documentation/swift_gui/connect/advanced_login.md
+      - Aircraft Page: documentation/swift_gui/aircraft_page.md
+      - ATC Page: documentation/swift_gui/atc_page.md
+      - Audio Page: documentation/swift_gui/audio_page.md
+      - Cockpit Page: documentation/swift_gui/cockpit_page.md
+      - Simulator Page: documentation/swift_gui/simulator_page.md
+      - Models Page:
+        - documentation/swift_gui/models/index.md
+        - Manually Change Model: documentation/swift_gui/models/manually_changing_models.md
+      - Interpolation Page: documentation/swift_gui/interpolation_page.md
+      - Text/Chat Page: documentation/swift_gui/text_chat_page.md
+      - Flightplan Page: documentation/swift_gui/flightplan_page.md
+      - Log Page: documentation/swift_gui/log_page.md
+      - Settings Page: documentation/swift_gui/settings_page.md
+      - Users Page: documentation/swift_gui/users_page.md
+      - Transparency Widgets: documentation/swift_gui/transparency_widgets.md
+      - Ident Widget: documentation/swift_gui/ident_widget.md
+      - Radar Widget: documentation/swift_gui/radar_widget.md
+    - swift mapping tool:
+      - Mapping tool tabs:
+        - documentation/swift_data/mapping_tool_tabs.md
+        - Reload DB data - force reload from backend: documentation/swift_data/reload_db_data.md
+      - Create mappings for swift:
+        - documentation/swift_data/create_mapping.md
+        - Effectively and efficiently create mappings: documentation/swift_data/effective_create_mapping.md
+      - Background Updater: documentation/swift_data/background_updater.md
+      - Changing / fixing a mapping: documentation/swift_data/changing_mapping.md
+      - Data consolidation: documentation/swift_data/consolidation.md
+      - Distributor preferences: documentation/swift_data/distributor_preferences.md
+      - Excluded models in mapping tool: documentation/swift_data/excluded_models.md
+      - Maintain multiple model set: documentation/swift_data/multiple_model_sets.md
+      - Model Converter X (P3D/FSX family): documentation/swift_data/model_converter_x.md
+      - FSX / P3D specific information: documentation/swift_data/fsx_p3d_specifics.md
+      - Problems creating mappings? Some hints: documentation/swift_data/problems.md
+      - Ranking (sorting) a model set: documentation/swift_data/ranking_modelset.md
+      - See and use done mappings: documentation/swift_data/use_mapping.md
+      - Why is data consolidation needed?: documentation/swift_data/why_consolidation.md
+      - X-Plane specific information: documentation/swift_data/xplane_specifics.md
+    - swift core: documentation/swift_core.md
+    - swift Datastore:
+      - documentation/swift_datastore/index.md
+      - Change Requests for Airline, Aircraft, Livery data:
+        - documentation/swift_datastore/change_requests.md
+        - ICAO Aircraft code hints: documentation/swift_datastore/icao_aircraft_hints.md
+      - Login to Datastore and administer account: documentation/swift_datastore/login.md
+      - swift and VAs - Virtual Airlines: documentation/swift_datastore/virtual_airlines.md
+    - swift in Distributed Mode: documentation/distributed.md
+    - Flying with swift:
+      - swift pilot client aircraft views: documentation/flying/aircraft_views.md
+      - Disable AFV: documentation/flying/disable_afv.md
+      - Incognito mode (hide names for streaming): documentation/flying/incognito_mode.md
+      - Integrate COM unit, sync with cockpit COM unit: documentation/flying/integrated_com.md
+      - Requesting METAR, ATIS, voice ATIS: documentation/flying/requests.md
+      - Display model set in the client: documentation/flying/model_set_in_client.md
+      - swift in a shared cockpit (co-pilot observer OBS mode): documentation/flying/shared_cockpit.md
+      - X-Plane Follow aircraft view: documentation/flying/xp_follow_aircraft.md
+      - Model set validation:
+        - documentation/flying/model_set_validation.md
+        - Why do I see disabled models (models in red): documentation/flying/why_models_red.md
+        - Model set validation example: documentation/flying/model_set_validation_example.md
+        - Why do I see validation errors during startup?: documentation/flying/why_validation_errors.md
+      - Settings (pilot client):
+        - documentation/flying/settings/index.md
+        - Aircraft range and max. aircraft number (aka visibility range): documentation/flying/settings/range.md
+        - Configure / select the used simulator, P3D version FSX version: documentation/flying/settings/select_simulator_version.md
+        - Hide aircraft labels in X-Plane: documentation/flying/settings/xp_hide_labels.md
+        - Interpolation settings: documentation/flying/settings/interpolation.md
+        - Matching settings, using models without mapping entry / no DB entry: documentation/flying/settings/matching.md
+        - Simulator model directories: documentation/flying/settings/simulator_model_directories.md
+        - Notification sounds and text message sound (and testing sounds): documentation/flying/settings/notification_sound.md
+        - Setting the correct P3D version (x64 only): documentation/flying/settings/set_p3d_version.md
+        - A remote hotkey example (remote PTT): documentation/flying/settings/remote_hotkey_example.md
+        - Reset the screen size: documentation/flying/settings/reset_screen_size.md
+        - SimConnect SB4 offsets settings (P3D/FSX XPDR synchronization): documentation/flying/settings/simconnect_sb4_offsets.md
+        - Simulator messages (messages relayed to simulator): documentation/flying/settings/simulator_messages.md
+        - Weather settings: documentation/flying/settings/weather.md
+        - XPlane driver settings: documentation/flying/settings/xplane_driver.md
+        - XSwiftBus settings: documentation/flying/settings/xswiftbus.md
+      - Hotkeys such as PTT (push to talk), Joystick hotkey not working: documentation/flying/hotkey_not_working.md
+      - swift and FSUIPC: documentation/flying/fsuipc.md
+      - Instant mapping (create a mapping before you fly - Quick mapping wizard): documentation/flying/instant_mapping.md
+      - swift launcher wizard: documentation/flying/swift_launcher_wizard.md
+      - P3D and swift - 32 or 64 bit?: documentation/flying/p3d_64_or_32.md
+      - P3D and FSX remote SimConnect access: documentation/flying/remote_simconnect.md
+      - swift pilot client text message handling (disable overlay messages): documentation/flying/text_message_handling.md
+      - Tower view for controllers with EuroScope, vStars: documentation/flying/tower_view.md
+      - Update model data (for the client): documentation/flying/update_model_data.md
+      - swift user data: documentation/flying/swift_user_data.md
+  - Troubleshooting:
+    - troubleshooting/index.md
+    - Bootstrap file: troubleshooting/bootstrap.md
+    - swift does not connect with XPlane on MacOS: troubleshooting/xp_on_macos.md
+    - Troubleshoot installation and 1st start: troubleshooting/first_install.md
+    - Troubleshoot voice: troubleshooting/voice.md
+    - Linux Hotkeys are not detected: troubleshooting/linux_hotkeys.md
+    - Questions and answers (aka FAQs):
+      - ATC failed to connect error 10061: troubleshooting/faq/atc_failed_to_connect.md
+      - Choosing a callsign: troubleshooting/faq/choosing_callsign.md
+      - How to fly as co-pilot?: troubleshooting/faq/fly_copilot.md
+      - Models not accessible: troubleshooting/faq/model_not_accessable.md
+      - I do not see other planes, no other aircraft, no other traffic: troubleshooting/faq/xp_problems.md
+      - I see no other traffic: troubleshooting/faq/no_traffic.md
+      - How can I restrict the number of aircraft?: troubleshooting/faq/restrict_rendered_aircrafts.md
+      - Temp disable a model: troubleshooting/faq/temp_disable_model.md
+      - X-Plane landing gear missing/no animations:
+        - troubleshooting/faq/xp_landing_gear/index.md
+        - Deactivate plugins with xOrganizer: troubleshooting/faq/xp_landing_gear/deactivate_plugins_xorganizer.md
+    - Model mapping:
+      - Mapping DB roles: troubleshooting/model_mapping/mapping_db_roles.md
+      - Mapping FS9 FSX and P3D standard models: troubleshooting/model_mapping/mapping_fs9_fsx_p3d_standard_models.md
+      - Mapping hints and FAQs: troubleshooting/model_mapping/mapping_hints.md
+      - No DB model - I do not see my DB model, why?: troubleshooting/model_mapping/no_db_model.md
+    - Model matching:
+      - Matching tips (or why model matching fails): troubleshooting/model_matching/tips.md
+      - Why do I see airline FOO for airline BAR aircraft?: troubleshooting/model_matching/wrong_airline.md
+      - Matching log/messages (which model is displayed?): troubleshooting/model_matching/matching_log.md
+      - Model matching - reporting issues: troubleshooting/model_matching/report_issues.md
+      - Matching script: troubleshooting/model_matching/matching_script.md
+      - Reverse lookup: troubleshooting/model_matching/reverse_lookup.md
+      - Matching script technical details and matching script examples: troubleshooting/model_matching/matching_script_technical.md
+      - Why do I see a B74F instead of the B747 passenger version?: troubleshooting/model_matching/wrong_aircraft.md
+    - Models (own installed models) and model set:
+      - Model set - add new models: troubleshooting/models/add_models.md
+      - Model set - creating or recreate a model set: troubleshooting/models/create_recreate_model_set.md
+      - Export model set (backup a model set): troubleshooting/models/export_model_set.md
+      - What is this bloody model set and why is it needed?: troubleshooting/models/what_is_model_set.md
+      - Removing duplicates from a model set (reduce set): troubleshooting/models/removing_duplicates.md
+      - Should I use models without DB data in my model set?: troubleshooting/models/models_without_db_entry.md
+      - Testing a model set - model matcher: troubleshooting/models/testing_model_set.md
+      - Tuning / tweaking a model set (model matrix): troubleshooting/models/tune_model_set.md
+      - When do I have to update my model set?: troubleshooting/models/when_to_update.md
+    - Cannot connect to simulator / no simulator plugin: troubleshooting/simulator_connection.md
+    - swift crash after startup: troubleshooting/crash_startup.md
+    - Crash reports / enable crash dumps: troubleshooting/crash_reports.md
+    - Creating a Windows crash dump (swift hanging): troubleshooting/windows_crash_dump.md
+    - Disconnects due to low framerate (X-Plane): troubleshooting/xp_low_frames.md
+    - dot-commands (.commands), hide dot command tooltip: troubleshooting/dot_commands.md
+    - Find cache and settings files (where swift stores its data): troubleshooting/cache_settings_location.md
+    - Find swift log files, crashdump files, interpolation log. files: troubleshooting/swift_log_files.md
+    - Connecting FS9 manually through multiplayer: troubleshooting/connect_fs9_manually.md
+    - FSX/P3D SimConnect_AICreateNonATCAircraft fails, models are not rendered: troubleshooting/fsx_add_ai_failed.md
+    - Interpolation log. display window: troubleshooting/interpolation_log.md
+    - Interpolation examples (wrong parts etc.): troubleshooting/interpolation_examples.md
+    - No sound on macOS (loopback not working): troubleshooting/no_sound_macos.md
+    - Mapping, matching and model set explained (theory and concepts): troubleshooting/mapping_matching_model_set_theory_concepts.md
+    - The model browser (testing models offline): troubleshooting/model_browser.md
+    - Microphone not working on Windows: troubleshooting/no_microphone_windows.md
+    - No notification sounds: troubleshooting/no_notification_sounds.md
+    - Tweaking swift notification sounds: troubleshooting/tweaking_notification_sounds.md
+    - Model / aircraft not rendered (possible reasons and solutions): troubleshooting/aircraft_not_rendered.md
+    - swift not starting, ASSERT after start: troubleshooting/not_starting.md
+    - Aircraft parts and gnd. flag / ground flag: troubleshooting/aircraft_parts_gnd_flag.md
+    - Delete swift registry values (Windows only): troubleshooting/delete_registry_values.md
+    - Save Window: troubleshooting/save_window.md
+    - swift Command Line Arguments: troubleshooting/command_line_arguments.md
+    - swift Developer Command Lline Arguments: troubleshooting/developer_command_line_arguments.md
+    - swift UI concepts (multiple windows, floating windows, resize views): troubleshooting/ui_concepts.md
+    - Tracing interpolation: troubleshooting/tracing_interpolation.md
+    - "Example: Tracing if aircraft should be on ground": troubleshooting/example_tracing.md
+    - Tracing network packets (FSD log) and network statistics: troubleshooting/tracing_fsd.md
+    - Tracing and testing aircraft parts: troubleshooting/tracing_aircraft_parts.md
+    - Tracing SimConnect: troubleshooting/tracing_simconnect.md
+  - Developer Documentation: https://github.com/swift-project/pilotclient/wiki
+
+theme:
+  name: material
+  font: false # Do not load fonts from Google
+  palette:
+    - scheme: default
+      primary: teal
+      accent: pink
+      toggle:
+        icon: fontawesome/solid/moon
+        name: To Dark Mode
+    - scheme: slate
+      primary: teal
+      accent: pink
+      toggle:
+        icon: fontawesome/solid/sun
+        name: To Light Mode
+
+  features:
+    - navigation.tabs
+    - navigation.indexes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/swift-project/pilotclient
+      name: GitHub
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/R7Atd9A
+      name: Discord
+  consent:
+    title: Cookie consent
+    description: >-
+      This page uses cookies to save user preferences (required).
+    actions:
+      - accept
+
+copyright: Except otherwise noted, the content on this page is licensed under the GNU Free Documentation License 1.3 - <a href="#__consent">Show cookie settings</a>
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
