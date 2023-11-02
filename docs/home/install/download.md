@@ -26,8 +26,3 @@ Please consult this table to determine what version of *swift* you need to downl
 
 - up to and including **X-Plane 11.41**, use *swift* **0.9.4**
 - from **X-Plane version 11.50** onwards you must use *swift* **0.9.5 and newer**
-
-**MSFS FS2020 Users**:
-
-- although Microsoft's new Flight Simulator is a 64bit application, its module "Simconnect" is a 32bit program and thus only the 32bit versions of *swift* **0.9.6+** will work.
-
