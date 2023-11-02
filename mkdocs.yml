@@ -259,6 +259,9 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/R7Atd9A
       name: Discord
+    - icon: fontawesome/solid/database
+      link: https://datastore.swift-project.org
+      name: Datastore
   consent:
     title: Cookie consent
     description: >-
