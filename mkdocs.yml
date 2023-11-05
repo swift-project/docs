@@ -269,7 +269,9 @@ extra:
     actions:
       - accept
 
-copyright: Except otherwise noted, the content on this page is licensed under the GNU Free Documentation License 1.3 - <a href="#__consent">Show cookie settings</a>
+copyright: Except otherwise noted, the content on this page is licensed under the GNU Free Documentation License 1.3
+           <br>
+           <a href="#__consent">Show cookie settings</a> - This page is hosted on GitHub through GitHub Pages. <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">Click here to view GitHub's privacy policy</a>
 
 markdown_extensions:
   - attr_list
