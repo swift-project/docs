@@ -143,7 +143,7 @@ nav:
         - Simulator messages (messages relayed to simulator): documentation/flying/settings/simulator_messages.md
         - Weather settings: documentation/flying/settings/weather.md
         - XPlane driver settings: documentation/flying/settings/xplane_driver.md
-        - XSwiftBus settings: documentation/flying/settings/xswiftbus.md
+        - xswiftbus settings: documentation/flying/settings/xswiftbus.md
       - Hotkeys such as PTT (push to talk), Joystick hotkey not working: documentation/flying/hotkey_not_working.md
       - swift and FSUIPC: documentation/flying/fsuipc.md
       - Instant mapping (create a mapping before you fly - Quick mapping wizard): documentation/flying/instant_mapping.md

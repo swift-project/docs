@@ -3,7 +3,7 @@
     SPDX-License-Identifier: GFDL-1.3-only
 -->
 
-*swift*Launcher can be used to access all components of *swift*, to update the client, *XSwiftBus* and the database and to change the operational mode of the pilot client.
+*swift*Launcher can be used to access all components of *swift*, to update the client, *xswiftbus* and the database and to change the operational mode of the pilot client.
 
 ![](./../img/manual_swiftlauncher_overview.jpg)
 

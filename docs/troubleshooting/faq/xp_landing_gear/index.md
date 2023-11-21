@@ -20,15 +20,15 @@ SPDX-License-Identifier: GFDL-1.3-only
 
 ## Solution 1
 
-**Another plugin is conflicting with XSwiftBus**
+**Another plugin is conflicting with xswiftbus**
 
-One of the functions of *XSwiftBus* is to inject CSL model data into X-Plane to render (display) the aircraft of other pilots near you, including model animation.
+One of the functions of *xswiftbus* is to inject CSL model data into X-Plane to render (display) the aircraft of other pilots near you, including model animation.
 If another plugin with similar functions is **active at the same time**, it will interfere with the rendering process of those CSL models their animations will be broken or you won't be seeing any models at all.
 
 Check the plugins-directory of X-Plane for other plugins that are related to injecting CSL model data.
 Plugins for X-Plane 11 are saved in ``\X-Plane 11\Resources\Plugins\``.
 
-The following plugins are known to interfere with XSwiftBus:
+The following plugins are known to interfere with xswiftbus:
 
 * **XSquawkbox**
 * **xPilot**

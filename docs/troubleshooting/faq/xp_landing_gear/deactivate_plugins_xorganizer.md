@@ -13,7 +13,7 @@ The default plugin manager of X-Plane does not prevent this from happening, it i
 
 If you use several plugins for CSL model injection, xOrganizer may be a comfortable solution to switch between them.
 
-XSwiftBus ON, X-IvAp OFF | XSwiftBus OFF, X-IvAp ON |
+xswiftbus ON, X-IvAp OFF | xswiftbus OFF, X-IvAp ON |
 |-|-|
 | ![](./../../../img/xorganizer_swift_enabled.jpg) | ![](./../../../img/xorganizer_xivap_enabled.jpg) |
 

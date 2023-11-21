@@ -53,8 +53,8 @@ As you can see in *swift*Launcher, you have 2 options:
   * **model matching** is done in ***swift*Core**, therefore your **CSL/AI model sets** must be installed **on the computer that is running swiftCore**
   * the GUI-part of *swift*GUI does **not** require a model set, it will use the one from *swift*Core on the remote computer
   * *swift*Core is responsible for communicating with online flying services like VATSIM and other FSD-servers. This computer has to have **access to the internet**, otherwise it cannot connect to them
-  * *swift*Core connects to your flight simulator platform through SimConnect, //XSwiftBus// or FSUIPC
-  * *swift*Core and *swift*GUI exchange information with each other on the **port** set in your **DBus settings** (don't confuse this connection with the //XSwiftBus// connection)
+  * *swift*Core connects to your flight simulator platform through SimConnect, //xswiftbus// or FSUIPC
+  * *swift*Core and *swift*GUI exchange information with each other on the **port** set in your **DBus settings** (don't confuse this connection with the //xswiftbus// connection)
     ![](./../img/manual_distributedmode_dbusport.jpg){: style="width:50%"}
   * **AFV/Audio For VATSIM** can run either through *swift*Core **or** *swift*GUI and requires **UDP port 50000** to be enabled
 

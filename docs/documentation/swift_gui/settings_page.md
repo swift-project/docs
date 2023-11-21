@@ -98,7 +98,7 @@ The lower section offers some general setting options
 
 Furthermore, you can also modify settings that are specific to each flight simulator platform used.
 Depending on the product, there more or less options available.
-To access them you need to click on the ``[...]``-icon in the same line as the simulator plugin, in this example XSwiftBus for X-Plane 11:
+To access them you need to click on the ``[...]``-icon in the same line as the simulator plugin, in this example xswiftbus for X-Plane 11:
 
 ![](./../../img/manual_swiftgui_settings_simulator_plugins_select.jpg){: style="width:40%"}
 

@@ -36,33 +36,33 @@ The **download and installation process** for *swift*GUI *swift*Launcher **is id
 
 If you do **NOT** use **X-Plane**, then you are done here and you can go flying!
 
-## Updating of XSwiftBus
+## Updating of xswiftbus
 
-* *Users of X-Plane** have to **update XSwiftBus**!
-* in *swift***Launcher** locate the *XSwiftBus*-section and make sure to select **exactly the same version number** as the client that you just installed.
-  Select ``download`` to open the download dialogue (don't allow the message **Nothing new** distract you from the fact that XSwiftBus requires updating: this message is referring to the *swift* application only)
+* *Users of X-Plane** have to **update xswiftbus**!
+* in *swift***Launcher** locate the *xswiftbus*-section and make sure to select **exactly the same version number** as the client that you just installed.
+  Select ``download`` to open the download dialogue (don't allow the message **Nothing new** distract you from the fact that xswiftbus requires updating: this message is referring to the *swift* application only)
 
       ![](./../../img/updatexswiftbus_newversion.jpg){: style="width:50%"}
-* in the *XSwiftBus* dialogue you have one more chance to verify the version of the plugin.
+* in the *xswiftbus* dialogue you have one more chance to verify the version of the plugin.
   Click on ``download`` to actually start the download
 
     ![](./../../img/updatexswiftbus_downloadnewversion.jpg){: style="width:50%"}
 
-* with the download finished, select ``OK`` to install *XSwiftBus*
+* with the download finished, select ``OK`` to install *xswiftbus*
 
     ![](./../../img/updatexswiftbus_installnewversion.jpg){: style="width:50%"}
 
 !!! note
 
     In case that you do **not** have **[7zip (freeware)](https://www.7-zip.org/)** or if it isn't available for your OS at all (e.g. MacOS), *swift* will produce an error message.
-    You will then have to **install *XSwiftBus* manually** by extracting the archive to ``X-Plane 11\Resources\plugins\`` (overwriting existing *XSwiftBus* files there)
+    You will then have to **install *xswiftbus* manually** by extracting the archive to ``X-Plane 11\Resources\plugins\`` (overwriting existing *xswiftbus* files there)
 
 * when done, you can either keep the archive or delete it.
   Select ``**OK**`` to delete the file or ``Cancel`` to keep it
 
     ![](./../../img/updatexswiftbus_downloadnewversionfinished.jpg){: style="width:50%"}
 
-**You have completed updating *swift* and *XSwiftBus*, you can go flying!**
+**You have completed updating *swift* and *xswiftbus*, you can go flying!**
 
 
 ## Updating Manually
@@ -79,10 +79,10 @@ If you do **NOT** use **X-Plane**, then you are done here and you can go flying!
     ![](./../../img/swift_installation_previousconfiguration.jpg){: style="width:50%"}
 
 * if you do **not** use **X-Plane**, then you are done here and you can go flying!
-* **users of X-Plane** have to **update XSwiftBus** as well!
+* **users of X-Plane** have to **update xswiftbus** as well!
     * either **start** *swift***Launcher** and proceed as described in the previous paragraph of this page
-    * or **download and install** *XSwiftBus* **manually**: from our [download page](./../install/download.md) get *XSwiftBus* with **exactly the same version number** as the client that you just installed.
+    * or **download and install** *xswiftbus* **manually**: from our [download page](./../install/download.md) get *xswiftbus* with **exactly the same version number** as the client that you just installed.
       **Extract** the archive to ``\X-Plane 11\Resources\Plugins\`` and **overwrite old files**
 
 
-* **You are now done updating *swift* and *XSwiftBus*, you can go flying!**
+* **You are now done updating *swift* and *xswiftbus*, you can go flying!**
