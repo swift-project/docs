@@ -6,7 +6,7 @@
 see als [X-Plane driver settings](./xplane_driver.md)
 
 
-When changing the connection details between *swift* and *XSwiftBus*,
+When changing the connection details between *swift* and *xswiftbus*,
 the modification needs to be applied in sync on both sides. Otherwise
 connection issues can occur.
 
@@ -19,7 +19,7 @@ swift side:
 
 ## On the XPlane plugin side
 
-Modify `xswiftbus.conf` configuration file inside the `XSwiftBus` plugin folder.
+Modify `xswiftbus.conf` configuration file inside the `xswiftbus` plugin folder.
 It should look like this:
 
 ```conf
@@ -34,4 +34,4 @@ dbusPort = 45001
 ```
 
 Make sure to apply the same settings as on *swift* side.
-**Any modification of this file will require a restart of XSwiftBus** (either by a restart of X-Plane or disabling/enabling *XSwiftBus* from the Plugin Manager).
+**Any modification of this file will require a restart of xswiftbus** (either by a restart of X-Plane or disabling/enabling *xswiftbus* from the Plugin Manager).

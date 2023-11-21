@@ -65,7 +65,7 @@ In your *swift* installation directory you will see a directory `bearer`, just r
 **X-Plane specific**
 
 - Warn of XSquawkBox/xPilot conflict
-    - *XSwiftBus* doesn\'t work properly if xsquawkbox or x-ivap is also installed since only one can have control of X-Plane multiplayer aircraft.
+    - *xswiftbus* doesn\'t work properly if xsquawkbox or x-ivap is also installed since only one can have control of X-Plane multiplayer aircraft.
         *swift* will raise a warning in case another plugin is controlling the multiplayer aircraft.
     - Remove or disable the conflicting plugin and restart X-Plane.
       Plugins are still loaded even if they are disabled.

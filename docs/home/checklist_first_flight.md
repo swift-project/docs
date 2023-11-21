@@ -41,8 +41,8 @@ X-Plane has seen significant internal changes, as a consequence you have to use 
 Until including **X-Plane 11.41** you have to use *swift* **version 0.9.4.389**. From **X-Plane 11.50** download and install *swift* **0.9.5.x or newer**.
 
 * use the **64bit version** of *swift*
-* make sure **XSwiftBus** is installed and that its **version number is identical** with the one of *swift*GUI
-* traffic plugins and other pilot clients for X-Plane will interfere with *XSwiftBus* and need to be properly deactivated or removed from the plugins folder.
+* make sure **xswiftbus** is installed and that its **version number is identical** with the one of *swift*GUI
+* traffic plugins and other pilot clients for X-Plane will interfere with *xswiftbus* and need to be properly deactivated or removed from the plugins folder.
   [More info](./../troubleshooting/faq/xp_landing_gear/index.md)
 * CSL models must be installed inside the folder of X-Plane, it is advisable to avoid spaces and special characters in the file paths.
   [More information and recommendations](./models/xplane/index.md#recommended-installation-practices)

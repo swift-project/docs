@@ -6,7 +6,7 @@
 !!! note
 
     This chapter is for users who have installed *swift* **for the very first time** or who are making a clean installation and do not have previous configurations to copy their settings from.
-    If you are an existing user and if you have copied all settings during installation of *swift* pilot client, then the only thing that you need to do in the Configuration Wizard is **[update XSwiftBus](./configure_xp.md#xswiftbus-wizard)**!
+    If you are an existing user and if you have copied all settings during installation of *swift* pilot client, then the only thing that you need to do in the Configuration Wizard is **[update xswiftbus](./configure_xp.md#xswiftbus-wizard)**!
     All other settings can be managed through *swift*GUI.
 
 
@@ -168,17 +168,17 @@ Now it's time to actually search for existing models, list them as your **Stored
 
 Believe it or not, but you just created your first model set for *swift*, well done!
 
-## XSwiftBus Wizard
+## xswiftbus Wizard
 
 !!! warning
 
-    The **XSwiftBus plugin** is required for **X-Plane** **only**.
+    The **xswiftbus plugin** is required for **X-Plane** **only**.
 
-XSwiftBus Wizard will download and install XSwiftBus for you.
+xswiftbus Wizard will download and install xswiftbus for you.
 
 ![](./../../img/xswiftbus_wizard.jpg){: style="width:80%"}
 
-*swiftGUI* is not a plugin for X-Plane and in order to exchange data with X-Plane and to render CSL models, a plugin called XSwiftBus is necessary.
+*swiftGUI* is not a plugin for X-Plane and in order to exchange data with X-Plane and to render CSL models, a plugin called xswiftbus is necessary.
 It has to be installed into your **X-Plane plugins-folder** (found at ``YourDrive:\X-Plane 11\Resources\plugins``).
 
 *swift* will be using the X-Plane program directory that you had confirmed on the ([Simulator Wizard page](./configure_xp.md#simulator-wizard)).
@@ -186,16 +186,16 @@ It has to be installed into your **X-Plane plugins-folder** (found at ``YourDriv
 ![](./../../img/xswiftbus_installation.jpg){: style="width:80%"}
 
 * **Install directory:** check the correct plugins-directory of X-Plane is shown
-* **Download directory:** check the folder where XSwiftBus will be downloaded to.
+* **Download directory:** check the folder where xswiftbus will be downloaded to.
   If you are happy with it, leave it, or change it to your preference
-* **Version:** choose the **correct version** of XSwiftBus: it **has to** be the **same version number** as *swift* pilot client that you are configuring now!
-  For example, if you are installing *swift* 0.9.5.128, then XSwiftBus has to have the same version number 0.9.5.128
+* **Version:** choose the **correct version** of xswiftbus: it **has to** be the **same version number** as *swift* pilot client that you are configuring now!
+  For example, if you are installing *swift* 0.9.5.128, then xswiftbus has to have the same version number 0.9.5.128
 * after selecting the correct version, select ``download`` and follow the instructions to install the plugin
 
 !!! note
 
     in case that you do **not** have **[7zip (freeware)](https://www.7-zip.org/)** or if it isn't available for your OS at all (e.g. MacOS), *swift* will produce an error message.
-    You will then have to **install XSwiftBus manually** by extracting the archive to ``X-Plane 11\Resources\plugins\`` (overwriting existing xswiftbus files there).
+    You will then have to **install xswiftbus manually** by extracting the archive to ``X-Plane 11\Resources\plugins\`` (overwriting existing xswiftbus files there).
 
 ## Hotkey Wizard
 

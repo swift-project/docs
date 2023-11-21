@@ -41,7 +41,7 @@ Should it find one, the installer will offer you to copy those *swift*-settings 
     ![](./../../img/swift_installation_previousconfiguration.jpg){: style="width:70%"}
 
 > Select "Yes" to copy your settings, as this will save you from configuring *swift* again.
-If you are just updating *swift* and you are using **X-Plane**, then you will have to **[update XSwiftBus](./configure_xp.md#xswiftbus-wizard)** (run the **Config Wizard**).
+If you are just updating *swift* and you are using **X-Plane**, then you will have to **[update xswiftbus](./configure_xp.md#xswiftbus-wizard)** (run the **Config Wizard**).
 
 However, if you did **not** get this message, you will have to configure *swift* before you can use it.
 
