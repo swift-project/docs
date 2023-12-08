@@ -68,11 +68,9 @@ Let's add the aircraft to the database!
     * **Correct data** is what you consider as correct for the aircraft that you want to add to our database (red arrows)
       ![](./../../img/quickmapping_mappingwizard_verifydata.jpg)
   * after one more confirmation page you will be presented with the login-dialogue for *swift* Datastore.
-    Don't panic, simply use your **VATSIM ID and VATSIM network password (VATSIM SSO)**.
-    Should it not work, try the VATSIM SSO at [swift Datastore](https://datastore.swift-project.org/page/), it will take a few seconds only.
+    This requires a **separate account**.
+    **[See here for more information on how to create an account.](./../../documentation/swift_datastore/login.md)**
     After you have successfully logged in there, you should be able to log in through the Quick Mapping Wizard as well.
-    **[See here for more information about the datastore.](./../../documentation/swift_datastore/login.md)**
-    ![](./../../img/quickmapping_mappingwizard_logindatastore.jpg)
   * when you are logged in, confirm that you want to send your Change Request and a status-update will follow:
 
     ![](./../../img/quickmapping_mappingwizard_sendstatus.jpg)
