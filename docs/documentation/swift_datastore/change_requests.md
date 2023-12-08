@@ -31,9 +31,7 @@ In other words: your requested changes will not take immediate effect, they need
 
   ![](./../../img/changerequest_selecttype.jpg){: style="width:35%"}
 
-* it will take you to a login-page, VATSIM members can use the **VATSIM SSO (Single Sign On)**
-
-  ![](./../../img/changerequest_vatsimsso.jpg){: style="width:50%"}
+* it will take you to a login-page. [See here for more information on how to create an account.](./../../documentation/swift_datastore/login.md)
 
 * now just confirm your identity and **``Continue``**
 
