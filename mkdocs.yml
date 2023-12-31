@@ -214,7 +214,6 @@ nav:
     - The model browser (testing models offline): troubleshooting/model_browser.md
     - Microphone not working on Windows: troubleshooting/no_microphone_windows.md
     - No notification sounds: troubleshooting/no_notification_sounds.md
-    - Tweaking swift notification sounds: troubleshooting/tweaking_notification_sounds.md
     - Model / aircraft not rendered (possible reasons and solutions): troubleshooting/aircraft_not_rendered.md
     - swift not starting, ASSERT after start: troubleshooting/not_starting.md
     - Aircraft parts and gnd. flag / ground flag: troubleshooting/aircraft_parts_gnd_flag.md

@@ -4,7 +4,7 @@
 -->
 
 You can enable notification sounds for various events.
-To use your own sounds see [this article](./../../../troubleshooting/tweaking_notification_sounds.md).
+To use your own sounds see [this article](./../../swift_gui/audio_page.md#custom-sounds).
 
 ![](./../../../img/Audio_settings.jpg){: style="width:50%"}
 
