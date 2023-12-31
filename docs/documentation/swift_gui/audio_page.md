@@ -93,17 +93,42 @@ In this paragraph we will discuss configuring and setting up notification sounds
 
 ![](./../../img/manual_swiftgui_audio_notifications.jpg){: style="width:50%"}
 
+### Notification Sounds
+To activate or disable a specific notification sound, just toggle the checkmark in the relevant box.
+When activating a notification sound it will be played as a preview.
 
-### Custom Sounds Directory
-By default this field is empty.
-You can replace *swift's* standard notification sound files with your own custom files.
-The filenames have to match exactly the names of the default notification sound files.
+![](./../../img/manual_swiftgui_audio_notifications_sounds.jpg){: style="width:50%"}
+
+### Sounds Volume
+You can change the volume by entering a different value in this field.
+The valid range is from 25 to 100.
+By default a volume of 90 will be used.
+
+![](./../../img/manual_swiftgui_audio_notifications_volume.jpg){: style="width:50%"}
+
+### Custom Sounds
+You can replace *swift's* standard notification sounds with your own custom sound files.
 When doing so, it is advisable to keep your custom files in a **completely separate directory** outside *swift* to avoid having them overwritten when you install a new version of *swift*.
-The separate directory does not have to contain all notification sound files, but only your custom files - *swift* will be using its standard files for all other notifications.
+Enter the path to this directory at the ``Dir.`` field on the "Notifications" page.
+The separate directory does not have to contain all notification sound files, but only your custom files - *swift* will use its standard files for all other notifications.
+You can test a sound by selecting the corresponding checkbox on the "Notifications" page.
+The sound will then be played.
 
-Notification sound files are saved in ``swift-x.x.x-xxbit\share\sounds``
+The filenames must match exactly:
 
-![](./../../img/manual_swiftgui_audio_notifications_files.jpg){: style="width:50%"}
+- ``pttclick.wav`` (used for PTT click up **and** down)
+- ``callsignmentioned.wav``
+- ``unicommessage.wav``
+- ``supervisormessage.wav``
+- ``privatemessage.wav``
+- ``frequencymessage.wav``
+- ``logoff.wav``
+- ``login.wav``
+- ``error.wav``
+- ``afv_click_f32.wav`` (requires restart on change)
+- ``afv_crackle_f32.wav`` (requires restart on change)
+- ``afv_hf_whiteNoise_f32.wav`` (requires restart on change)
+- ``afv_whitenoise_f32.wav`` (requires restart on change)
 
 In our example here, only a selection of custom sound files has been created and placed in a directory called "swift custom sounds", followed by defining it in this section.
 
@@ -111,14 +136,4 @@ In our example here, only a selection of custom sound files has been created and
 
 ![](./../../img/manual_swiftgui_audio_notifications_customsoundsdir.jpg){: style="width:50%"}
 
-### Sounds Volume
-You can change the volume by entering a different value in this field.
-The valid range is from 25 to 100. By default a volume of 90 will be used.
 
-![](./../../img/manual_swiftgui_audio_notifications_volume.jpg){: style="width:50%"}
-
-### Notification Sounds
-To active of disable a specific notification sound, just toggle the checkmark in the relevant box.
-When activating a notification sound it will be played as preview for you.
-
-![](./../../img/manual_swiftgui_audio_notifications_sounds.jpg){: style="width:50%"}
