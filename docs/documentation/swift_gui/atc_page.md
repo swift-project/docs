@@ -5,11 +5,10 @@
 
 This page of *swift*GUI will provide you with information about **Air Traffic Controllers** that are **active in the area where you are online**.
 
-You can choose from 3 tabs:
+You can choose from 2 tabs:
 
 * **ATC List**
 * **ATC tree view** (categorized ATC stations)
-* **VATBOOK data** (booked ATC stations).
 
 ## General List
 The first tab will present you with a **general list of ATC stations** that is **sorted by distance** (ascending) between your own position and the primary centers of visibility of air traffic controllers.
@@ -53,9 +52,3 @@ You can
 * **show the (public) text message tab** on the [Text/Chat page](./text_chat_page.md) of the selected ATC
 
 ![](./../../img/manual_swiftgui_atc_contextmenu.jpg){: style="width:50%"}
-
-## ATC Bookings
-*swift* downloads the **latest data from VATBOOK**, an international ATC booking database.
-The list will provide you with ATC stations, dates and start and end times (Another nice way of checking VATBOOK and general VATSIM status data is using [Qutescoop](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/)).
-
-![](./../../img/manual_swiftgui_atc_vatbook.jpg){: style="width:50%"}
