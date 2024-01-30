@@ -23,7 +23,7 @@ You will find two Widgets on the GUI labelled ``50%`` and ``100%``, they are qui
 
 ## Network
 The first part is reserved for possible future use.
-In the lower half you can review and change the download interval times for METAR data, VATSIM's network status file (Data file) and VATBOOK (Bookings) data.
+In the lower half you can review and change the download interval times for METAR data and VATSIM's network status file (Data file).
 Avoid choosing very short download intervals to avoid overloading the servers.
 Unless you are experiencing issues, do not alter these values.
 
