@@ -20,6 +20,8 @@ Matching script allow to write your own matching logic beyond the scope of the s
 2. Then we use these unified data and try to find the best match in your model set.
   This is what we call **model matching**.
 
+![](./../../img/matching_stages.jpg){: style="width:60%"}
+
 swift exposes some of its APIs to matching script:
 
 - A wrapper for the swift database web services
