@@ -6,30 +6,20 @@
 The Flightplan page allows you to send flightplans to the network you are connected to.
 Flightplans can be filled in manually, loaded from files and from the **[SimBrief Dispatch System](https://www.simbrief.com/)**.
 
-![](./../../img/manual_swiftgui_flightplan.jpg){: style="width:50%"}
-
-
 ## Flightplan Data Fields
 - **Type**: flight rules used. Currently *swift* supports:
-  * VFR - Visual Flight Rules
-  * IFR - Instrument Flight Rules
-  * SVFR (Special VFR)
-  * [DVFR](https://en.wikipedia.org/wiki/DVFR)
+    * VFR - Visual Flight Rules
+    * IFR - Instrument Flight Rules
+    * SVFR (Special VFR)
+    * [DVFR](https://en.wikipedia.org/wiki/DVFR)
 - **Callsign**: this field gets filled in automatically from what you have set as callsign on the **[Connect Page](./connect/index.md)**.
   Should the callsign shown on the flightplan not correspond to the one on the Connect Page, click on the blue circle icon to reload and override it.
 - **Aircraft & Equipment**: this field gets filled in automatically from what you have set as callsign on the **[Connect Page](./connect/index.md)**.
   You can change it manually any time.
     * type code: needs to be a valid 4 letter aircraft type ICAO-code, check *swift*GUI's [Connect Page](./connect/index.md) for details
-    * Heavy: if the MTOM (Maximum Takeoff Mass) of your aircraft is equal or greater than 300,000 lbs or 136 tons, set a check mark
-    * TCAS: not really used any more
-    * Equipment Code: VATSIM is currently transitioning from **[FAA codes](https://en.wikipedia.org/wiki/Equipment_codes#List_of_FAA_Aircraft_Equipment_Codes_For_US_Domestic_Flights[3])** to **[ICAO codes](https://en.wikipedia.org/wiki/Equipment_codes#List_of_ICAO_Codes_(As_of_15_November_2012)[2])** in this respect.
-    *swift*'s flightplan form still uses and transmits FAA codes to the VATSIM flightplan interface.
-    If you are not sure what to do here, click on the **question mark icon** ![](./../../img/manual_swiftgui_flightplan_equipmentcodes01.jpg){: style="width:20%"} and it will take you to the ``Equipment Codes`` tab:
-
-    ![](./../../img/manual_swiftgui_flightplan_equipmentcodes02.jpg){: style="width:50%"}
-
-    **Modern airliners will always be code L**
-
+    * Wake Turbulence Category
+    * NAV/COM Equipment
+    * SSR Equipment
   - **TAS**: True Airspeed in knots (``kts``) or kilometres per hour (``km/h``)
   - **Departure Airport**: ICAO code of your departure airport.
     If no code is defined or if departing off-field, insert **ZZZZ** and specify **ADEP/** in the Remarks section, e.g. ``ADEP/Cairns Hospital``
@@ -96,10 +86,5 @@ At the bottom of the Flightplan page you will find a number of useful functions.
 
     ![](./../../img/manual_swiftgui_flightplan_simbrief.jpg){: style="width:50%"}
 
-  * ![](./../../img/manual_swiftgui_flightplan_buttons_save-load.jpg){: style="width:25%"} you may save and load flightplan data. Acceptable formats are vPilot, SB4 and *swift* JSON.
-  * ![](./../../img/manual_swiftgui_flightplan_buttons_validate.jpg){: style="width:15%"} before submitting a flightplan you can allow *swift* to validate your flightplan data.
-    This can be done either in a strict or in a lenient way.
-    Use the check mark box to control the mode.
-    If any field does not contain valid data, the validator will inform you about this fact so you can correct it and run the validator again
-  * **Prefill** fills the flight plan based on current aircraft data
+  * ![](./../../img/manual_swiftgui_flightplan_buttons_save-load.jpg){: style="width:25%"} you may save and load flightplan data. Acceptable formats are SB4 and *swift* JSON.
   * **Reset** allows you to clear the entire flight plan to start over
