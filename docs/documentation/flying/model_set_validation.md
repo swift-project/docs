@@ -55,7 +55,7 @@ There you can temp. disable such models.
 ![](./../../img/Validation_dialog.jpg){: style="width:75%"}
 
 
-After you have disabled models you wold see them "in red" in the model view (might be you have to press "load set" to refresh the view).
+After you have disabled models, you will see them "in red" in the model view (might be you have to press "load set" to refresh the view).
 
 ![](./../../img/Temp_disabled_models.jpg){: style="width:50%"}
 
