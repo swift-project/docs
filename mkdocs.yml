@@ -156,7 +156,6 @@ nav:
       - swift user data: documentation/flying/swift_user_data.md
   - Troubleshooting:
     - troubleshooting/index.md
-    - Bootstrap file: troubleshooting/bootstrap.md
     - swift does not connect with XPlane on MacOS: troubleshooting/xp_on_macos.md
     - Troubleshoot installation and 1st start: troubleshooting/first_install.md
     - Troubleshoot voice: troubleshooting/voice.md
