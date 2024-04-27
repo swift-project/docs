@@ -220,7 +220,6 @@ nav:
     - Delete swift registry values (Windows only): troubleshooting/delete_registry_values.md
     - Save Window: troubleshooting/save_window.md
     - swift Command Line Arguments: troubleshooting/command_line_arguments.md
-    - swift Developer Command Lline Arguments: troubleshooting/developer_command_line_arguments.md
     - swift UI concepts (multiple windows, floating windows, resize views): troubleshooting/ui_concepts.md
     - Tracing interpolation: troubleshooting/tracing_interpolation.md
     - "Example: Tracing if aircraft should be on ground": troubleshooting/example_tracing.md
