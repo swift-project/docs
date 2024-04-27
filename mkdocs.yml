@@ -162,7 +162,6 @@ nav:
     - Troubleshoot voice: troubleshooting/voice.md
     - Linux Hotkeys are not detected: troubleshooting/linux_hotkeys.md
     - Questions and answers (aka FAQs):
-      - ATC failed to connect error 10061: troubleshooting/faq/atc_failed_to_connect.md
       - Choosing a callsign: troubleshooting/faq/choosing_callsign.md
       - How to fly as co-pilot?: troubleshooting/faq/fly_copilot.md
       - Models not accessible: troubleshooting/faq/model_not_accessable.md
