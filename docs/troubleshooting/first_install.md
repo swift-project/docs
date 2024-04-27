@@ -9,10 +9,6 @@
 
 Read this [checklist](../home/checklist_first_flight.md)
 
-**Setup / bootstrap file trouble**
-
-See [Bootstrap file](./bootstrap.md).
-
 ***swift* does not start / connect**
 
 - Could be a Virus scanner/Security suite issue, maybe check if swift needs some permission there
