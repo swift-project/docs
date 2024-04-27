@@ -145,7 +145,6 @@ nav:
         - XPlane driver settings: documentation/flying/settings/xplane_driver.md
         - xswiftbus settings: documentation/flying/settings/xswiftbus.md
       - Hotkeys such as PTT (push to talk), Joystick hotkey not working: documentation/flying/hotkey_not_working.md
-      - swift and FSUIPC: documentation/flying/fsuipc.md
       - Instant mapping (create a mapping before you fly - Quick mapping wizard): documentation/flying/instant_mapping.md
       - swift launcher wizard: documentation/flying/swift_launcher_wizard.md
       - P3D and swift - 32 or 64 bit?: documentation/flying/p3d_64_or_32.md
