@@ -168,7 +168,6 @@ nav:
       - I do not see other planes, no other aircraft, no other traffic: troubleshooting/faq/xp_problems.md
       - I see no other traffic: troubleshooting/faq/no_traffic.md
       - How can I restrict the number of aircraft?: troubleshooting/faq/restrict_rendered_aircrafts.md
-      - Temp disable a model: troubleshooting/faq/temp_disable_model.md
       - X-Plane landing gear missing/no animations:
         - troubleshooting/faq/xp_landing_gear/index.md
         - Deactivate plugins with xOrganizer: troubleshooting/faq/xp_landing_gear/deactivate_plugins_xorganizer.md
