@@ -56,6 +56,10 @@ Until including **X-Plane 11.41** you have to use *swift* **version 0.9.4.389**.
 * enable [Simconnect Offsets](./../documentation/flying/settings/simconnect_sb4_offsets.md) in the driver settings if you want to use ATC Transponder updates from PMDG and other aircraft
 * you **cannot connect** *swift* to P3D or FSX?
   If you run P3D/FSX **as Admin**, then run *swift* **as Admin** as well
+* FSX and some P3D versions cannot handle all frequencies with **8.33 kHz spacing**.
+  Such frequencies can only be tuned through the swift UI.
+  In this case, your radio within the simulator might show a different frequency than selected within swift.
+  However, the frequency used to receive and transmit voice is always the frequency shown within swift.
 
 ### FS9
 
@@ -64,3 +68,5 @@ Until including **X-Plane 11.41** you have to use *swift* **version 0.9.4.389**.
 * since Windows 10 Update 1909, the **automatic connect function** between *swift* and FS9 may **not** work anymore.
   You will have to **[connect FS9 manually](./../troubleshooting/connect_fs9_manually.md)**
 * consider the **Ground Elevation** recording: [Help Page](./install/fs9/fs9_ground_elevation.md)
+* The COM frequencies selected within FS9 are **not synchronized** with swift.
+  You must tune the frequencies through the swift UI.

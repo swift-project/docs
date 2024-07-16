@@ -3,6 +3,11 @@
     SPDX-License-Identifier: GFDL-1.3-only
 -->
 
+!!! warning
+
+    COM synchronization does not work with FS9.
+
+
 -   You can enable COM unit synchronization (between simulator and
     *swift*) from the simulator settings
 

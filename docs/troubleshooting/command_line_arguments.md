@@ -3,10 +3,6 @@
     SPDX-License-Identifier: GFDL-1.3-only
 -->
 
-!!! note
-
-    see also [Developer Command Line Arguments](./developer_command_line_arguments.md)
-
 You can start all *swift* applications with **Command Line Arguments**, meaning that you **assign parameters** to programs that you run.
 
 
