@@ -28,7 +28,7 @@
   * [:simple-youtube: X-Plane 11 | Download and installation of X-CSL](https://youtu.be/cc2Be3_OQRY)
 
 ## Tutorials Specific to Microsoft Flight Simulator 2020
-  * [:simple-youtube: MSFS 2020 | Download and installation of X-CSL](https://youtu.be/RdWmn-4c3XQ)
+  * [:simple-youtube: MSFS 2020 | Installation and Setup of swift pilot client](https://youtu.be/RdWmn-4c3XQ)
 
 ## Others
 
