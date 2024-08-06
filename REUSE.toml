@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: Copyright (C) swift Project Community / Contributors
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+SPDX-PackageName = "swift pilot client Documentation"
+SPDX-PackageSupplier = "<>"
+SPDX-PackageDownloadLocation = "https://github.com/swift-project/docs"
+
+[[annotations]]
+path = "docs/img/**.jpg"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Copyright (C) swift Project Community / Contributors"
+SPDX-License-Identifier = "GFDL-1.3-only"
