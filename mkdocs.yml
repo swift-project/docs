@@ -147,8 +147,6 @@ nav:
       - Hotkeys such as PTT (push to talk), Joystick hotkey not working: documentation/flying/hotkey_not_working.md
       - Instant mapping (create a mapping before you fly - Quick mapping wizard): documentation/flying/instant_mapping.md
       - swift launcher wizard: documentation/flying/swift_launcher_wizard.md
-      - P3D and swift - 32 or 64 bit?: documentation/flying/p3d_64_or_32.md
-      - P3D and FSX remote SimConnect access: documentation/flying/remote_simconnect.md
       - swift pilot client text message handling (disable overlay messages): documentation/flying/text_message_handling.md
       - Tower view for controllers with EuroScope, vStars: documentation/flying/tower_view.md
       - Update model data (for the client): documentation/flying/update_model_data.md
