@@ -32,13 +32,13 @@ Our *swift* applications have been designed to work on all relevant operating sy
 ## Linux
   * 64 bit only
   * 200 MB free disk space
-  * *swift* is built on **Ubuntu 20.04 LTS**. Therefore it should run on any modern Linux distributions that have the following **minimum package versions** installed:
+  * *swift* is built on **Ubuntu 22.04 LTS**. Therefore it should run on any modern Linux distributions that have the following **minimum package versions** installed:
     * glibc 2.31 or higher
     * glibcxx 3.4.28 or higher
     * OpenSSL 1.1
     (OpenSSL 3 is **not** yet supported for official swift versions because Qt on Ubuntu 20.04 is built with OpenSSL 1.1.
     Not installing OpenSSL 1.1 leads to warning messages like ``QSslSocket: cannot call unresolved function ...``)
-    * libxcb-xinerama0
+    * libxcb-cursor0
     * libspeexdsp
     * libopus
 
