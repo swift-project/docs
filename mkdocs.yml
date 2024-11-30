@@ -198,7 +198,7 @@ nav:
     - Crash reports / enable crash dumps: troubleshooting/crash_reports.md
     - Creating a Windows crash dump (swift hanging): troubleshooting/windows_crash_dump.md
     - Disconnects due to low framerate (X-Plane): troubleshooting/xp_low_frames.md
-    - dot-commands (.commands), hide dot command tooltip: troubleshooting/dot_commands.md
+    - dot-commands (.commands): troubleshooting/dot_commands.md
     - Find cache and settings files (where swift stores its data): troubleshooting/cache_settings_location.md
     - Find swift log files, crashdump files, interpolation log. files: troubleshooting/swift_log_files.md
     - Connecting FS9 manually through multiplayer: troubleshooting/connect_fs9_manually.md
