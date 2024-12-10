@@ -64,15 +64,9 @@ As an alternative to running *swift*Core on the computer that houses your flight
 In order to create a model set in such a scenario, you will need remote access (shared drive etc.) to your CSL/AI model directory.
 
 ### FSX/P3D
-*swift* can use SimConnect in remote configuration: See [here](./flying/remote_simconnect.md).
-This allows for connecting a remote FSX/P3D from a standalone *swift*GUI.
-
-There are two ways to setup a distributed scenario
 
 * **Distributed** *swift*GUI on computer 1, *swift*Core on computer 2 (with your flight simulator).
   *swift*Core will be using a local SimConnect connection.
-* **Standalone** *swift*GUI on computer 1, connected via "remote SimConnect" to computer 2.
-  **No separate *swift*Core will be needed**!
 
 ### FS9
 You can use **WideFS** for a remote connection and run *swift*GUI in **standalone mode**.
