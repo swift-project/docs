@@ -51,7 +51,6 @@ In your *swift* installation directory you will see a directory `bearer`, just r
 - I only see "Constellations".
   Most likely you have no model set, an improper model set.
 - If the simulator does NOT connect, see the configuration page for your simulator
-- make sure you have the correct *swift* version, [32 bit or 64 bit](./../documentation/flying/p3d_64_or_32.md)
 - If you cannot connect the simulator and *swift*: If you run P3D "as admin\", run swift "as admin"
 - make sure you use the correct P3D driver version.
   If this version does not (yet) exists, selected the version which comes closest.
