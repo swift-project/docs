@@ -34,7 +34,7 @@ Just place your pointer of a field or label.
 
 Use `CTRL +`, `CTRL -` or `CTRL 0` to increase, decrease or reset font size.
 
-Resize views
+## Resize views
 
 - Use `CTRL R`
 - Use the resize features from the context menu, try what works best for you
