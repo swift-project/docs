@@ -7,12 +7,17 @@
 
 *swift* supports the following simulators:
 
+- Microsoft Flight Simulator 2020
+- Microsoft Flight Simulator 2024
 - Laminar Research X-Plane 11 (Vulkan/Metal/OpenGL)
-- Microsoft Flight Simulator (**FS2020**)
-- Lockheed Martin Prepar3D versions 1 thru 5
-- Microsoft Flight Simulator X with Acceleration or Service Pack 2 and Steam Edition
-- Microsoft Flight Simulator 2004 / FS9 (experimental)
+- Lockheed Martin Prepar3D versions 4 thru 5 (64 bit only)
 - FlightGear
+
+The following simulators are only supported by *swift* version 0.14.142 or below:
+
+- Lockheed Martin Prepar3D (32 bit versions)
+- Microsoft Flight Simulator X with Acceleration or Service Pack 2 and Steam Edition
+- Microsoft Flight Simulator 2004 (FS9)
 
 
 # Operating System Requirements
@@ -33,13 +38,10 @@ Our *swift* applications have been designed to work on all relevant operating sy
   * 64 bit only
   * 200 MB free disk space
   * *swift* is built on **Ubuntu 22.04 LTS**. Therefore it should run on any modern Linux distributions that have the following **minimum package versions** installed:
-    * glibc 2.31 or higher
+    * glibc 2.35 or higher
     * glibcxx 3.4.28 or higher
-    * OpenSSL 1.1
-    (OpenSSL 3 is **not** yet supported for official swift versions because Qt on Ubuntu 20.04 is built with OpenSSL 1.1.
-    Not installing OpenSSL 1.1 leads to warning messages like ``QSslSocket: cannot call unresolved function ...``)
+    * OpenSSL 3
     * libxcb-cursor0
-    * libspeexdsp
     * libopus
 
 To use *swift*, **[proceed to our download page](./install/download.md)**.
