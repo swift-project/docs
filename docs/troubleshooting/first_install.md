@@ -33,7 +33,7 @@ See [Why do I see validation errors during startup?](./../documentation/flying/w
 **No Mic / cannot talk to controller**
 
 -   [Troubleshoot voice (no ATC, no MIC, no sound, sample rates, WASAPI)](./voice.md)
--   MacOS user? See [here](./no_sound_macos.md)
+-   macOS user? See [here](./no_sound_macos.md)
 -   Windows: [Microphone not working on Windows](./no_microphone_windows.md)
 
 **The Qt WIFI problem**
@@ -77,7 +77,7 @@ In your *swift* installation directory you will see a directory `bearer`, just r
 
         ![](./../img/swift_LED_bar.jpg){: style="width:70%"}
 
-    - XPlane not connecting with *swift* on MacOS, see [this page](./xp_on_macos.md).
+    - XPlane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
 - **HINT:** Some users did have problems with spaces in their model directory paths
 - **Aircraft animation** as gear down **not working**:
     - There are some known conflicts with other XPlane add-ons as those keep common multiplayer animation `datarefs` (being shared between all pilot clients) locked and the *swift* dataref registration fails.
@@ -101,5 +101,5 @@ In your *swift* installation directory you will see a directory `bearer`, just r
 
 **Some issues with Mac OS**
 
-- XPlane not connecting with *swift* on MacOS, see [this page](./xp_on_macos.md).
+- XPlane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
 - Not validated: Installation in `Application` failed, but in XPlane directory it works.

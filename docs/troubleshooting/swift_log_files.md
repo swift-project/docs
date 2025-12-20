@@ -13,7 +13,7 @@ The path is something like here:
 - Then some magic name representing your swift version, like `H%3A%2FProjects%2FQtBuilds%2Fbuild-swift-Desktop_Qt_5_11_1_MSVC2017_64bit2-Debug%2Fout%2Fdebug%2Fbin\logs`
 - See also: [Find cache files](./cache_settings_location.md)
 
-On MacOS, the Path is `\~/Library/ApplicationSupport/org.swift-project\`
+On macOS, the Path is `\~/Library/ApplicationSupport/org.swift-project\`
 
 ![](./../img/FindLogsMacOS.jpg){: style="width:50%"}
 

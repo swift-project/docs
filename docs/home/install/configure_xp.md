@@ -194,7 +194,7 @@ It has to be installed into your **X-Plane plugins-folder** (found at ``YourDriv
 
 !!! note
 
-    in case that you do **not** have **[7zip (freeware)](https://www.7-zip.org/)** or if it isn't available for your OS at all (e.g. MacOS), *swift* will produce an error message.
+    in case that you do **not** have **[7zip (freeware)](https://www.7-zip.org/)** or if it isn't available for your OS at all (e.g. macOS), *swift* will produce an error message.
     You will then have to **install xswiftbus manually** by extracting the archive to ``X-Plane 11\Resources\plugins\`` (overwriting existing xswiftbus files there).
 
 ## Hotkey Wizard

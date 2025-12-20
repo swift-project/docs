@@ -18,7 +18,7 @@ If you have any questions, do not hesitate to contact us **[on our Discord serve
 
 * the swift pilot client, core and mapping tool are written in C++/Qt.
   You can help to improve the core functionality and add new features
-* A MacOS enthusiast is needed to further integrate Apple specific functionality
+* A macOS enthusiast is needed to further integrate Apple specific functionality
 * PHP/JavaScript programmers could help to improve [swift datastore](https://datastore.swift-project.org/page/index.php) (LAMP based), the backend DB for mappings.
   The datastore also provides web services for swift and we plan to improve the feature in the future.
 * [Getting started as developer](./developer.md)

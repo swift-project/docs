@@ -12,7 +12,7 @@
     - Is the PTT button defined, see [here](./../documentation/swift_gui/settings_page.md#hotkeys)
     - Does it work, If you press it, do you see the LED flashing?
     - If it is defined but does NOT work, remove it and add it again!
-- on **MacOSX** [make sure mic privilege is granted](./no_sound_macos.md).
+- on **macOS** [make sure mic privilege is granted](./no_sound_macos.md).
 - **Linux**: We read keyboard and joystick stuff from `/dev/input/event*` and `js*`. Those files have to be readable by your user. See [this page](./linux_hotkeys.md)
 - **Windows**: [Microphone not working on Windows](./no_microphone_windows.md)
 - **Is loopback working**? If not, this would mean some issue of *swift* and your hardware.

@@ -29,8 +29,8 @@ Our *swift* applications have been designed to work on all relevant operating sy
   * Microsoft Windows 10 or Microsoft Windows 11
   * 200 MB free disk space
 
-## MacOS
-  * MacOS 10.12 or higher
+## macOS
+  * macOS 10.12 or higher
   * 64 bit only
   * 200 MB free disk space
 

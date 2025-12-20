@@ -5,7 +5,7 @@
 
 **CSL2XSB is a Python script** that will convert X-CSL models to a format that can be understood and rendered by the new **Vulkan/Metal graphics engine of X-Plane 11.50+**.
 
-There's a **difference for users of Windows and MacOS/Linux**.
+There's a **difference for users of Windows and macOS/Linux**.
 Please use the respective paragraph.
 
 ## CSL2XSB on Windows Systems
@@ -66,8 +66,8 @@ You have converted those incompatible models and you have reloaded the model set
 You can now continue working with those models in the Mapping Tool.
 
 
-## CSL2XSB on MacOS and Linux Systems
-Unfortunately it was **not** possible to integrate the CSL2XSB script into the installers for MacOS and Linux.
+## CSL2XSB on macOS and Linux Systems
+Unfortunately it was **not** possible to integrate the CSL2XSB script into the installers for macOS and Linux.
 As a consequence you will have to convert the models manually and we show you here how to do it.
 
 - **Install Python 3+**: is Python 3 or newer installed on your system?

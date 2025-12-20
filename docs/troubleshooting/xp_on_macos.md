@@ -3,7 +3,7 @@
     SPDX-License-Identifier: GFDL-1.3-only
 -->
 
-For some people swift only works with session bus on MacOS.
+For some people swift only works with session bus on macOS.
 
 Reason: UNKNOWN, if you figure it out - let us know!
 

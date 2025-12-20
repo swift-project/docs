@@ -7,7 +7,7 @@
 
 !!! note
 
-    use the dedicated **64bit** MacOS version of *swift* **only**
+    use the dedicated **64bit** macOS version of *swift* **only**
 
 !!! warning
 
