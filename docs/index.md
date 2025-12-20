@@ -13,7 +13,7 @@ We are an independent (private/non-commercial) software project creating open so
 
 -  **supports** Windows, macOS, Linux
 -  **compatible with** X-Plane 11 (Vulkan/Metal/OpenGL) - MSFS2020 - MSFS2024 - P3D (64-bit) - Flightgear - (FSX, FS9 and P3D (32-bit) are supported only with older versions of swift)
--  *integrated **AFV - Audio For VATSIM**
+-  integrated **AFV - Audio For VATSIM**
 -  **AFV voice-volume control** through hotkeys
 -  **tuning and switching** of COM-radios, transponder, SELCAL
 -  **radar function** to help you maintain **situational awareness**

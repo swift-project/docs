@@ -16,7 +16,7 @@ nav:
       - Download: home/install/download.md
       - Installation:
         - Windows: home/install/install_windows.md
-        - MacOS: home/install/install_mac.md
+        - macOS: home/install/install_mac.md
         - Linux: home/install/install_linux.md
       - Configuration:
         - X-Plane 11: home/install/configure_xp.md
@@ -153,7 +153,7 @@ nav:
       - swift user data: documentation/flying/swift_user_data.md
   - Troubleshooting:
     - troubleshooting/index.md
-    - swift does not connect with XPlane on MacOS: troubleshooting/xp_on_macos.md
+    - swift does not connect with XPlane on macOS: troubleshooting/xp_on_macos.md
     - Troubleshoot installation and 1st start: troubleshooting/first_install.md
     - Troubleshoot voice: troubleshooting/voice.md
     - Linux Hotkeys are not detected: troubleshooting/linux_hotkeys.md
