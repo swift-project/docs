@@ -6,11 +6,14 @@
 ## Supported driver
 
 
--   FS9 (experimental)
--   XPlane
--   FSX + P3D v1-3 legacy simConnect
--   P3D v4 64bit (new P3D simConnect linkage)
--   Emulated driver (for testing and observer tasks)
+<!-- -   FS9 (experimental) -->
+- X-Plane (for X-Plane 11 and X-Plane 12)
+- MSFS 2020
+- MSFS 2024
+<!---   FSX + P3D v1-3 legacy simConnect -->
+- P3D v4 64bit (new P3D simConnect linkage)
+- Flightgear
+- Emulated driver (for testing and observer tasks)
 
 ## Simulator version
 
