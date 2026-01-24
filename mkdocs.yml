@@ -19,7 +19,7 @@ nav:
         - macOS: home/install/install_mac.md
         - Linux: home/install/install_linux.md
       - Configuration:
-        - X-Plane 11: home/install/configure_xp.md
+        - X-Plane 11 & X-Plane 12: home/install/configure_xp.md
         - MSFS - FS2020: home/install/configure_msfs.md
         - FSX & P3D v1-v3:
           - home/install/fsx_p3d/index.md
@@ -32,7 +32,7 @@ nav:
           - home/install/fs9/index.md
           - FS9 elevation (FS9 aircraft too high/low): home/install/fs9/fs9_ground_elevation.md
     - CSL models & AI aircraft:
-      - X-Plane 11:
+      - X-Plane 11 & X-Plane 12:
         - home/models/xplane/index.md
         - Bluebell: home/models/xplane/bluebell.md
         - X-CSL: home/models/xplane/xcsl.md
