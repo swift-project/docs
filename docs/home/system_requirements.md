@@ -7,9 +7,10 @@
 
 *swift* supports the following simulators:
 
+- Laminar Research X-Plane 11 (Vulkan/Metal/OpenGL) (latest stable version)
+- Laminar Research X-Plane 12 (latest stable version)
 - Microsoft Flight Simulator 2020
 - Microsoft Flight Simulator 2024
-- Laminar Research X-Plane 11 (Vulkan/Metal/OpenGL)
 - Lockheed Martin Prepar3D versions 4 thru 5 (64 bit only)
 - FlightGear
 
