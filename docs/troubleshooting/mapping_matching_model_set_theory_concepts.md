@@ -5,11 +5,11 @@
 
 ## Own stored models
 
-If you run your simulator (XPlane, P3D, ...) you will install aircraft models to display other pilots.
-In XPlane those are the BlueBell or XCSL models, in P3D/FSX the FLAI or WoAI models for instance.
+If you run your simulator (X-Plane, P3D, ...) you will install aircraft models to display other pilots.
+In X-Plane those are the BlueBell or XCSL models, in P3D/FSX the FLAI or WoAI models for instance.
 
 Those models we call **"stored own models"**, and they are located on your hard drive.
-Such a directory structure may look like here (FSX/XPlane examples):
+Such a directory structure may look like here (FSX/X-Plane examples):
 
 ![](./../img/dirstructure1.jpg){: style="width:70%"}
 
@@ -60,7 +60,7 @@ Why do we need such metadata (and not just use the data from the aircraft files)
   This is at least true for P3D/FSX models
 - not all attributes (e.g. colors) are covered,
 - and we can not extend those metadata for future features
-- different simulators (i.e. XPlane, P3D, ...) use different concepts, namings, etc., so we need to unify
+- different simulators (i.e. X-Plane, P3D, ...) use different concepts, namings, etc., so we need to unify
 - there is no existing concept to structure liveries
 - and maintenace is a nightmare.
   If an airline changes its name, ICAO code or such, we have to modify simulator files.

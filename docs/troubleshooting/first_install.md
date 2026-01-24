@@ -68,19 +68,19 @@ In your *swift* installation directory you will see a directory `bearer`, just r
       Some people have to remove the plugins from the folder, some do not.
     - Maybe you consider a 3rd party tool like [XOrganizer](./faq/xp_landing_gear/deactivate_plugins_xorganizer.md)
 - **Bluebell CSL models sunken in ground** (vertical offset fix) , see TODO
-- XPlane models in model set, **but not rendered**.
-    **Solution**: CSL files need to be inside the `XPlane` folder.
-    Moving the XPlane models might require to reload your swift model cache, then recreating the model set.
-- *swift* cannot connect to XPlane simulator side plugin:
-    - Check if the settings of the *swift* side and XPlane side do match, [xswiftbus settings](./../documentation/flying/settings/xswiftbus.md).
+- X-Plane models in model set, **but not rendered**.
+    **Solution**: CSL files need to be inside the `X-Plane` folder.
+    Moving the X-Plane models might require to reload your swift model cache, then recreating the model set.
+- *swift* cannot connect to X-Plane simulator side plugin:
+    - Check if the settings of the *swift* side and X-Plane side do match, [xswiftbus settings](./../documentation/flying/settings/xswiftbus.md).
     - If the simulator LED is "on" the simulator can be connected:
 
         ![](./../img/swift_LED_bar.jpg){: style="width:70%"}
 
-    - XPlane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
+    - X-Plane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
 - **HINT:** Some users did have problems with spaces in their model directory paths
 - **Aircraft animation** as gear down **not working**:
-    - There are some known conflicts with other XPlane add-ons as those keep common multiplayer animation `datarefs` (being shared between all pilot clients) locked and the *swift* dataref registration fails.
+    - There are some known conflicts with other X-Plane add-ons as those keep common multiplayer animation `datarefs` (being shared between all pilot clients) locked and the *swift* dataref registration fails.
     - In order to resolve the problem move the conflicting plugin out of your plugin folder and restart.
       The conflict is known to cause trouble with gear animations and such.
     - Problems with the following plugins have been reported: all other client plugins like XSB, x-ivap, fscloud, fs2play
@@ -99,7 +99,7 @@ In your *swift* installation directory you will see a directory `bearer`, just r
 
 **3) OS specific**
 
-**Some issues with Mac OS**
+**Some issues with macOS**
 
-- XPlane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
-- Not validated: Installation in `Application` failed, but in XPlane directory it works.
+- X-Plane not connecting with *swift* on macOS, see [this page](./xp_on_macos.md).
+- Not validated: Installation in `Application` failed, but in X-Plane directory it works.

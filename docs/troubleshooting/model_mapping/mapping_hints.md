@@ -50,7 +50,7 @@
   See [this page](./mapping_fs9_fsx_p3d_standard_models.md)
 - What are excluded models?
     See [this page](./../../documentation/swift_data/excluded_models.md)
-- XPlane
+- X-Plane
     - Why are some models excluded (`CSL` vs `.acf` models)?
       See [this page](./../../documentation/swift_data/excluded_models.md)
     - Do we need mappings for `ACF` models?

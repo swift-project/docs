@@ -13,4 +13,4 @@
 
 ![](./../img/Plugins.jpg){: style="width:70%"}
 
-- **XPlane specific**: Verify the [xswiftbus settings](./../documentation/flying/settings/xswiftbus.md).
+- **X-Plane specific**: Verify the [xswiftbus settings](./../documentation/flying/settings/xswiftbus.md).

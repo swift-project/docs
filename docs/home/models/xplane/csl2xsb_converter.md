@@ -25,7 +25,7 @@ In the *swift* **Configuration Wizard** you can convert incompatible models with
 
 * close the model error message pop-up ``x``
 * **select any aircraft** from the model list, click on your **right** mouse button (opens context menu)
-* select the top option ``Simulator`` and from there ``XPlane: run CSL2XSB on all models``, a command prompt pop-up will open
+* select the top option ``Simulator`` and from there ``X-Plane: run CSL2XSB on all models``, a command prompt pop-up will open
 
     ![](./../../../img/1stmodelset_selectcsl2xsb.jpg){: style="width:70%"}
 
@@ -36,7 +36,7 @@ In the *swift* **Configuration Wizard** you can convert incompatible models with
 
 * it may take a while to process all models.
   In the end, the script will ask you to press ``ENTER`` to close the command prompt pop-up
-* on your model list pop-up window select ``force reload XPlane`` to **load all models again**, there should be no more error messages related to the unsupported format
+* on your model list pop-up window select ``force reload X-Plane`` to **load all models again**, there should be no more error messages related to the unsupported format
 
     ![](./../../../img/1stmodelset_forcereload_xp.jpg){: style="width:30%"}
 
@@ -49,7 +49,7 @@ In the *swift* **Mapping Tool** you can convert incompatible models in the **Sto
 
 * close the model error message pop-up ``x``
 * **select any aircraft** from the model list, click on your **right** mouse button (opens context menu)
-* select the top option ``Simulator`` and from there ``XPlane: run CSL2XSB on all models``, a command prompt pop-up will open
+* select the top option ``Simulator`` and from there ``X-Plane: run CSL2XSB on all models``, a command prompt pop-up will open
 
     ![](./../../../img/mappingtool_csl2xsb.jpg){: style="width:70%"}
 
@@ -58,7 +58,7 @@ In the *swift* **Mapping Tool** you can convert incompatible models in the **Sto
     ![](./../../../img/csl2xsb_commandprompt.jpg){: style="width:80%"}
 
 * it may take a while to process all models. In the end, the script will ask you to press ``ENTER`` to close the command prompt pop-up
-* on your model list pop-up window select ``force reload XPlane`` to **load all models again**, there should be no more error messages related to the unsupported format
+* on your model list pop-up window select ``force reload X-Plane`` to **load all models again**, there should be no more error messages related to the unsupported format
 
     ![](./../../../img/1stmodelset_forcereload_xp.jpg){: style="width:30%"}
 
@@ -82,6 +82,6 @@ As a consequence you will have to convert the models manually and we show you he
     ![](./../../../img/csl2xsb_commandprompt.jpg){: style="width:80%"}
 
 - **Return to Configuration Wizard / Mapping Tool**: when CSL2XSB has done its job, depending on where you came from to convert X-CSL models, return to the *swift***Configuration Wizard** or to the **Mapping Tool**
-- **Force Reload models**: on your model list pop-up window select ``force reload XPlane`` to **load all models again**, there should be no more error messages related to the unsupported format
+- **Force Reload models**: on your model list pop-up window select ``force reload X-Plane`` to **load all models again**, there should be no more error messages related to the unsupported format
 
     ![](./../../../img/1stmodelset_forcereload_xp.jpg){: style="width:30%"}

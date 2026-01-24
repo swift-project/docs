@@ -11,7 +11,7 @@ Upfront:
 - aircraft too high or too low is caused by scenery offsets and/or missing/wrong vertical offsets (aka CG).
 - typical causes may include
     - missing CG/offset
-    - wrong XPlane elevation
+    - wrong X-Plane elevation
     - missing FSX terrain probe, see [FSX probe](../home/install/fsx_p3d/install_terrain_probe.md)
     - wrong gnd. flag from other party
 

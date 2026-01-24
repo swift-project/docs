@@ -16,7 +16,7 @@
 There are 3 possibilities to get interpolation information:
 
 - in an extra window of swift (since 0.8.4): [interpolation page](./../documentation/swift_gui/interpolation_page.md)
-- in the message window of XPlane/FSX/P3D.
+- in the message window of X-Plane/FSX/P3D.
   You can send the current interpolated situation as message to the sim, which is useful if you want so see it in the simulator together with the aircraft
 - or saved into a log file in HTML format which can also be read by spreadsheet programs.
   (HTML table will be created from that, which also be imported by Excel and similar spreadsheet programs)

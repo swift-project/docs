@@ -24,8 +24,8 @@ That can mean:
 
 -   you have moved your model directory and not updated your model set,
     [solution](./../../troubleshooting/models/create_recreate_model_set.md)
--   Is your XPlane model directory within the XPlane directory?
--   For XPlane it might me that you made a mistake during the
+-   Is your X-Plane model directory within the X-Plane directory?
+-   For X-Plane it might me that you made a mistake during the
     installation of the vertical offsets and ended up with cascaded
     directories.
     Fix the offsets, then [re-create your model set](./../../troubleshooting/models/create_recreate_model_set.md)

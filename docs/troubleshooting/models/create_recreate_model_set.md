@@ -7,7 +7,7 @@
 
 This is up to you, but maybe some hints:
 
-- For XPlane:
+- For X-Plane:
     - BlueBell is a good option
     - You can mix BlueBell with XCSL, use it alone, use BlueBell alone etc.
 - For VATSIM and FSX/P3D FLAI is a good choice

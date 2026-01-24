@@ -16,7 +16,7 @@
 
 - All aircraft are not rendered. Something is entirely wrong.
     - Have you moved your models (folder)? If so, reload the models and re-create the model set.
-    - For XP11, are your models located in the XPlane folder?
+    - For XP11, are your models located in the X-Plane folder?
     - did model validation pop-up?
       Then *swift* already tells you your model set is broken.
       You can run the validator in the mapping tool or the *swift* pilot client, see [model set validation](./../documentation/flying/model_set_validation.md).
@@ -40,10 +40,10 @@
 - Have you models in your (model) set for which no liveries/installed models exist?
     -   See [model set validation](./../documentation/flying/model_set_validation.md).
 
-## XPlane specific
+## X-Plane specific
 
 - Make sure **NO OTHER pilot client plugin is present**
-- XPlane models in model set, but not rendered. Solution: **CSL files need to be inside the XPlane folder.**
+- X-Plane models in model set, but not rendered. Solution: **CSL files need to be inside the X-Plane folder.**
   Example of a working folder structure:
 
     ![](./../img/cslfiles.jpg){: style="width:70%"}

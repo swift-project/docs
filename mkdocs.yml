@@ -142,7 +142,7 @@ nav:
         - SimConnect SB4 offsets settings (P3D/FSX XPDR synchronization): documentation/flying/settings/simconnect_sb4_offsets.md
         - Simulator messages (messages relayed to simulator): documentation/flying/settings/simulator_messages.md
         - Weather settings: documentation/flying/settings/weather.md
-        - XPlane driver settings: documentation/flying/settings/xplane_driver.md
+        - X-Plane driver settings: documentation/flying/settings/xplane_driver.md
         - xswiftbus settings: documentation/flying/settings/xswiftbus.md
       - Hotkeys such as PTT (push to talk), Joystick hotkey not working: documentation/flying/hotkey_not_working.md
       - Instant mapping (create a mapping before you fly - Quick mapping wizard): documentation/flying/instant_mapping.md
@@ -153,7 +153,7 @@ nav:
       - swift user data: documentation/flying/swift_user_data.md
   - Troubleshooting:
     - troubleshooting/index.md
-    - swift does not connect with XPlane on macOS: troubleshooting/xp_on_macos.md
+    - swift does not connect with X-Plane on macOS: troubleshooting/xp_on_macos.md
     - Troubleshoot installation and 1st start: troubleshooting/first_install.md
     - Troubleshoot voice: troubleshooting/voice.md
     - Linux Hotkeys are not detected: troubleshooting/linux_hotkeys.md

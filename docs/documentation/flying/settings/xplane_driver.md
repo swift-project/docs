@@ -13,7 +13,7 @@ The driver settings can be found here: Settings --> Simulator --> then click on 
 
 
 In order to display the other aircraft on TCAS *swift* uses some technical tricks.
-Those can affect the stability and the performance of XPlane.
-Changing requires restarting XPlane.
+Those can affect the stability and the performance of X-Plane.
+Changing requires restarting X-Plane.
 
 ![](./../../../img/tcassettings.jpg){: style="width:50%"}

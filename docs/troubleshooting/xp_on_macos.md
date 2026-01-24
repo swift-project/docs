@@ -7,7 +7,7 @@ For some people swift only works with session bus on macOS.
 
 Reason: UNKNOWN, if you figure it out - let us know!
 
-Reported for: Mac OS 10.15.4
+Reported for: macOS 10.15.4
 
 Here it is shown how to switch to session bus:
 

@@ -17,7 +17,7 @@ swift side:
 
 ![](./../../../img/tcassettings.jpg){: style="width:50%"}
 
-## On the XPlane plugin side
+## On the X-Plane plugin side
 
 Modify `xswiftbus.conf` configuration file inside the `xswiftbus` plugin folder.
 It should look like this:
