@@ -24,4 +24,4 @@ jobs:
       - name: Run REUSE lint
         run: reuse lint
       - name: Build
-        run: mkdocs build --strict
+        run: zensical build --strict
