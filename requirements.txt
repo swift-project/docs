@@ -10,7 +10,7 @@ Jinja2==3.1.6
 license-expression==30.4.4
 Markdown==3.10.2
 MarkupSafe==3.0.3
-Pygments==2.19.2
+Pygments==2.20.0
 pymdown-extensions==10.21
 python-debian==1.1.0
 python-magic==0.4.27
