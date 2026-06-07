@@ -31,7 +31,7 @@ Our *swift* applications have been designed to work on all relevant operating sy
   * 200 MB free disk space
 
 ## macOS
-  * macOS 10.12 or higher
+  * macOS 13 or higher
   * 64 bit only
   * 200 MB free disk space
 
