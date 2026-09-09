@@ -217,6 +217,7 @@ nav:
     - Tracing network packets (FSD log) and network statistics: troubleshooting/tracing_fsd.md
     - Tracing and testing aircraft parts: troubleshooting/tracing_aircraft_parts.md
     - Tracing SimConnect: troubleshooting/tracing_simconnect.md
+  - Changelog: https://github.com/swift-project/pilotclient/blob/main/CHANGELOG.md
   - Developer Documentation: https://github.com/swift-project/pilotclient/wiki
 
 theme:
