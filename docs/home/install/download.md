@@ -16,10 +16,12 @@ Please consult this table to determine what version of *swift* you need to downl
 |---------------------------|------------------------------------|------------------------------------|
 | FS2004 - FS9              | <center>:white_check_mark:<center> | <center>:x:<center>                |
 | FSX                       | <center>:white_check_mark:<center> | <center>:x:<center>                |
-| MSFS - FS2020             | <center>:white_check_mark:<center> | <center>:white_check_mark:<center> |
+| MSFS 2020                 | <center>:white_check_mark:<center> | <center>:white_check_mark:<center> |
+| MSFS 2024                 | <center>:x:<center>                | <center>:white_check_mark:<center> |
 | P3D v1-v3                 | <center>:white_check_mark:<center> | <center>:x:<center>                |
 | P3D v4 and later          | <center>:x:<center>                | <center>:white_check_mark:<center> |
 | X-Plane 11                | <center>:white_check_mark:<center> | <center>:white_check_mark:<center> |
+| X-Plane 12                | <center>:x:<center>                | <center>:white_check_mark:<center> |
 | Flightgear                | <center>:white_check_mark:<center> | <center>:white_check_mark:<center> |
 
 **X-Plane Users**:
